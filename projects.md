@@ -7,7 +7,7 @@ nav_order: 4
 ## Important Dates
 * Mon., May 1 at 11:59pm: Project Proposals 
 * Mon., May 22 at 11:59pm: Project Milestone 
-* Thurs., June 8 at time & location TBD: Poster Session
+* Thurs., June 8 from 10am-12pm at location TBD: Poster Session
 * Mon., June 12 at 11:59am (yes, am): Project Report
 
 ## Your Course Project 
@@ -19,7 +19,7 @@ Projects can be done by you as an individual, or in teams of two students. You c
 The final project is worth 40% of your grade, which will be split amongst four deliverables:
 - A project proposal (feedback, but no grade), due on May 1 (Mon) by 11:59pm.
 - A project milestone (10% of the final grade), due on May 22 (Mon) by 11:59pm.
-- A project poster presentation (10% of the final grade), on date, time and place TBD.
+- A project poster presentation (10% of the final grade), on June 8 (Thu) from 10am-12pm at place TBD.
 - A final report (20% of the final grade), due on June 12 (Mon) by 11:59am (yes, am).
 
 Your project will be evaluated by three criteria:
@@ -50,7 +50,7 @@ A project milestone should be submitted on **May 22nd by 11:59pm via Gradescope*
  
 ## Poster Session  
 
-We will hold a poster session on **Thursday, June 8th at time & location TBD**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
+We will hold a poster session on **Thursday, June 8th from 10am-12pm at location TBD**. Each team will be given a stand to present a poster summarizing the project motivation, methodology, and results. The poster session will give you a chance to show off the hard work you put into your project, and to learn about the projects of your peers. 
 
 Here are some details on the poster format:
 - We will provide poster boards that are 30x40. 
