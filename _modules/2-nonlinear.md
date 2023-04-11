@@ -5,7 +5,7 @@ title: Week 2, 3, 4 - Non-linear regression and classification
 Apr 10
 : **Lecture 3**{: .label .label-purple } Decision trees I 
   : &nbsp;
-: * Decision trees
+: * Decision trees, Overfitting in decision trees
   * Reading: 
       1. **PML1** 18.1
       1. (Optional) **ESL** 9.2.1-9.2.3
@@ -14,7 +14,7 @@ Apr 12
 : **Lecture 4**{: .label .label-purple } Decision trees II 
   : &nbsp;
 : **CQ1 due**{: .label .label-red }: Intro
-: * Overfitting in decision trees, Boosting, Adaboost
+: * Boosting, Adaboost
   * Reading:
       1. **PML1** 18.4-18.5
       1. (Optional) **ESL** 9.2.4, 10.1-10.10, 15.1-15.4, 
