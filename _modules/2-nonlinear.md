@@ -31,7 +31,7 @@ Apr 19
 : **Lecture 6**{: .label .label-purple } Decision trees IV
   : **HW 1 due**{: .label .label-red }  **HW 2 out**{: .label .label-orange }
 : **CQ2 out**{: .label .label-green }: Decision trees, boosting, random forests
-: *  Gradient boosting cont’d, Random forests, Missing data, Precision and recall
+: *  Gradient boosting cont’d, Random forests, Precision and recall
   * Reading:
       1. **PML1** 5.1.4
 
